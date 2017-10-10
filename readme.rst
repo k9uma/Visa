@@ -14,7 +14,7 @@ Setup
 
 3. configure the cybersource profile
 
-4. Generate Access Key and Secret Key.
+4. Generate Access Key and Secret Key
 
 
 
